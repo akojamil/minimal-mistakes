@@ -98,17 +98,19 @@ author:
   avatar           : /assets/me.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student in Physics at Yale University"
   location         : "New Haven, CT"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:akojamil93@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.akojamil.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/akojamil"
+  email            : akojamil93@gmail.com
+  github           : akojamil
+  ORCID            : akojamil
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:akojamil93@gmail.com"
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://www.akojamil.com"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/akojamil"
 
 # Site Footer
 footer:
