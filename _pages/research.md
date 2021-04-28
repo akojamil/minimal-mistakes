@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 author_profile: true
 header:
-  overlay_image: /assets/lab.jpg
+  overlay_image: /assets/wlab.jpg
 classes: wide
 ---
 
