@@ -4,7 +4,7 @@ permalink: /
 title: About
 author_profile: true
 header:
-  overlay_image: /assets/photo.jpg
+  overlay_image: /assets/photo_nome.jpg
 classes: wide
 ---
 
