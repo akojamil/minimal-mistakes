@@ -4,8 +4,8 @@ permalink: /
 title: About
 author_profile: true
 header:
-  overlay_image: /assets/lab.jpg
+  overlay_image: /assets/photo.jpg
 classes: wide
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+I am a 4th year graduate student in Physics at Yale University working with [Prof. David Moore](https://campuspress.yale.edu/moorelab/) on the [EXO-200](https://www-project.slac.stanford.edu/exo/) and [nEXO](https://nexo.llnl.gov) experiments, searching for the Neutrino-less Double Beta Decay $(0\nu\beta\beta)$ of  ${}^{136}\mathrm{Xe}$.
