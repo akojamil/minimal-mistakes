@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 header:
   overlay_image: /assets/wlab.jpg
+classes: wide
 
 feature_row_exo200:
   - image_path: /assets/exo.jpg
