@@ -243,6 +243,7 @@ defaults:
       type: posts
     values:
       layout: single
+      stick: true
       author_profile: true
       read_time: true
       comments: # true
