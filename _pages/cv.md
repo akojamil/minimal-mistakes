@@ -6,7 +6,6 @@ author_profile: true
 header:
   overlay_image: /assets/wlab.jpg
 classes: wide
----
 
 feature_row:
   - image_path: /assets/wlab.jpg
@@ -27,6 +26,9 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--success"
+---
+
+
 
 ## Short Bio
 I am a 4th year PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrino-less double beta decay and data analysis, simulation and instrumentation related to it.
