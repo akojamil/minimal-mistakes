@@ -10,7 +10,7 @@ feature_row2:
   - image_path: /assets/exo.jpg
     alt: "EXO-200 TPC"
     title: "EXO-200"
-    excerpt: 'The Enriched Xenon Observatory (EXO) is an experiment searching for the neutrino-less double beta decay of the isotope Xe-136. It is a hypothetical decay that can only occur if neutrinos are Majorana fermions, which means that neutrinos are their own anti-particles.'
+    excerpt: 'The Enriched Xenon Observatory (EXO) is an experiment searching for the neutrino-less double beta decay $(0\nu\beta\beta)$ of the isotope Xe-136. It is a hypothetical decay that can only occur if neutrinos are Majorana fermions, which means that neutrinos are their own anti-particles.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
