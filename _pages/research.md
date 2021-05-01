@@ -16,10 +16,10 @@ feature_row_exo200:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_nexo:
-  - image_path: /assets/nexo.jpg
+  - image_path: /assets/nexo_artist.jpg
     alt: "nEXO logo"
     title: "nEXO"
-    excerpt: 'The goal of nEXO is to improve by at least two orders of magnitude in half-life sensitivity upon current generation experiment, reaching a half-life sensitivity of $\sim 10^{28}$ years.'
+    excerpt: 'The goal of nEXO is to improve by at least two orders of magnitude in half-life sensitivity upon current generation experiment, reaching a half-life sensitivity of $\leq 10^{28}$ years.'
     url: "https://nexo.llnl.gov"
     btn_label: "Read More"
     btn_class: "btn--primary"
