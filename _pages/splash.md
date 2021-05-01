@@ -8,7 +8,7 @@ feature_row2:
   - image_path: /assets/exo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. This is some sample content that goes here with **Markdown** formatting. This is some sample content that goes here with **Markdown** formatting.'
+    excerpt: 'The Enriched Xenon Observatory (EXO) is an experiment searching for the neutrino-less double beta decay of the isotope Xe-136. It is a hypothetical decay that can only occur if neutrinos are Majorana fermions, which means that neutrinos are their own anti-particles.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
