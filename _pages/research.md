@@ -25,6 +25,7 @@ feature_row_nexo:
     btn_class: "btn--primary"
 ---
 
+During my graduate research I am working on the following two experiments: 
 
 {% include feature_row id="feature_row_exo200" type="left" %}
 
