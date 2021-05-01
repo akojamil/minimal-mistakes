@@ -27,6 +27,6 @@ feature_row_nexo:
 
 During my graduate research I am working on the following two experiments: 
 
-{% include feature_row id="feature_row_exo200" type="right" %}
+{% include feature_row id="feature_row_exo200" type="left" %}
 
-{% include feature_row id="feature_row_nexo" type="right" %}
+{% include feature_row id="feature_row_nexo" type="left" %}
