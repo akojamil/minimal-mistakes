@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: /assets/wlab.jpg
 
-feature_row2:
+feature_row_exo200:
   - image_path: /assets/exo.jpg
     alt: "EXO-200 TPC"
     title: "EXO-200"
@@ -14,10 +14,10 @@ feature_row2:
     url: "https://www-project.slac.stanford.edu/exo/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row_nexo:
   - image_path: /assets/nexo.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    alt: "nEXO logo"
+    title: "nEXO"
     excerpt: 'The goal of nEXO is to improve by at least two orders of magnitude in half-life sensitivity upon current generation experiment, reaching a half-life sensitivity of $\sim 10^{28}$ years.'
     url: "https://nexo.llnl.gov"
     btn_label: "Read More"
@@ -25,6 +25,6 @@ feature_row3:
 ---
 
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_exo200" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row_nexo" type="left" %}
