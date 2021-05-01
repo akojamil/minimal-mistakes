@@ -22,7 +22,7 @@ feature_row2:
   - image_path: /assets/exo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'The Enriched Xenon Observatory (EXO) is an experiment searching for the neutrino-less double beta decay 0vbb of Xe-136. It's a hypothetical decay that can only occur if neutrinos are Majorana fermions, i.e. if the neutrinos are their own anti-particles. The detector technology is a (LXe) time projection chamber (TPC) filled with ~150kg of liquid xenon. While current experimental limits have excluded the existence of $0\nu\beta\beta$ with half-lifes shorter than 10^26 years, the next generation experiment at the tonne scale is already being planned ...'
+    excerpt: 'The Enriched Xenon Observatory (EXO) is an experiment searching for the neutrino-less double beta decay 0vbb of Xe-136. It's a hypothetical decay that can only occur if neutrinos are Majorana fermions, i.e. if the neutrinos are their own anti-particles. The detector technology is a (LXe) time projection chamber (TPC) filled with ~150kg of liquid xenon. While current experimental limits have excluded the existence of 0vbb with half-lifes shorter than 10^26 years, the next generation experiment at the tonne scale is already being planned ...'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
