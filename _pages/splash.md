@@ -22,7 +22,7 @@ feature_row2:
   - image_path: /assets/exo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'The Enriched Xenon Observatory (EXO) is an experiment searching for the neutrino-less double beta decay 0vbb of Xe-136. It's a hypothetical decay that can only occur if neutrinos are Majorana fermions'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
