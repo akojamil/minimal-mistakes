@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 author_profile: true
 header:
-  overlay_image: /assets/wlab.jpg
+  image: /assets/wlab.jpg
 classes: wide
 ---
 
