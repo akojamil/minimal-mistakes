@@ -109,6 +109,8 @@ $vimeo-color: #1ab7ea !default;
 $vine-color: #00bf8f !default;
 $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
+$google-scholar-color: #4788ee;
+
 
 /* links */
 $link-color: mix(#000, $info-color, 20%) !default;
@@ -117,6 +119,10 @@ $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+
+/* notices */
+$notice-background-mix: 80% !default;
+$code-notice-background-mix: 90% !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
@@ -152,7 +158,7 @@ $max-width: $x-large !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 250px !default;
+$right-sidebar-width: 250 !default;
 $right-sidebar-width-wide: 300px !default;
 
 /*

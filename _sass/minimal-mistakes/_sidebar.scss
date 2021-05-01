@@ -20,6 +20,12 @@
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 1;
+    // -webkit-transition: opacity 0.2s ease-in-out;
+    // transition: opacity 0.2s ease-in-out;
+
+    // &:hover {
+    //   opacity: 1;
+    // }
 
     &.sticky {
       overflow-y: auto;
@@ -81,8 +87,8 @@
       @include clearfix();
       position: -webkit-sticky;
       position: sticky;
-      top: 4em;
-      float: right;
+      top: 2em;
+      float: left;
     }
   }
 
@@ -123,6 +129,11 @@
   img {
     max-width: 110px;
     border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 
