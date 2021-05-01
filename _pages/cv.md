@@ -3,8 +3,8 @@ layout: single
 permalink: /cv/
 title: CV
 author_profile: true
-# header:
-#   overlay_image: /assets/photo.jpg
+header:
+  overlay_image: /assets/photo.jpg
 classes: wide
 ---
 
