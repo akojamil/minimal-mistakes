@@ -1,34 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /cv/
 title: CV
 author_profile: true
 header:
   overlay_image: /assets/wlab.jpg
 classes: wide
-
-feature_row:
-  - image_path: /assets/wlab.jpg
-    title: "Placeholder 1"
-    excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/wlab.jpg
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--secondary"
-  - image_path: /assets/wlab.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--success"
 ---
-
-
 
 ## Short Bio
 I am a 4th year PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrino-less double beta decay and data analysis, simulation and instrumentation related to it.
