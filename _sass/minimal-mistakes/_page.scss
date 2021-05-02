@@ -50,7 +50,7 @@
     .page__inner-wrap {
       float: left;
       margin-top: 1em;
-      margin-left: 3em;
+      margin-left: 0;
       margin-right: 0;
       width: 100%;
       clear: both;
@@ -83,7 +83,9 @@
   }
   
   .page__content {
+    padding-left: 3em;
     h2 {
+      
       padding-bottom: 0.5em;
       border-bottom: 1px solid $border-color;
     }
@@ -91,7 +93,7 @@
     h1, h2, h3, h4, h5, h6 {
       .header-link {
         position: relative;
-        left: 0.5em;
+        left: 5.5em;
         opacity: 0;
         font-size: 0.8em;
         -webkit-transition: opacity 0.2s ease-in-out 0.1s;
