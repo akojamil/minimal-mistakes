@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Short Bio
-I am a 4th year PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrino-less double beta decay and data analysis, simulation and instrumentation related to it.
+I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrino-less double beta decay and data analysis, simulation and instrumentation related to it.
 
 ## Education
 - **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2017 - Now
@@ -31,6 +31,8 @@ I am a 4th year PhD student in physics with interest in fundamental interactions
 - **German Academic Exchange Service (DAAD)** , PROMOS Fellowship, 2015
 
 ## Selected Presentations
+- **[Search for MeV-scale Energy Deposits from Dark Matter in Liquid Xenon using EXO-200](https://meetings.aps.org/Meeting/DNP21/Session/QL.6){:target="_blank"}**\
+Fall Meeting of the APS Division of Nuclear Physics, October 2021 (Contributed Talk)
 - **[Modeling the Effect of Impurities on the Electron Lifetime in Liquid Xenon for nEXO](https://indico.physics.ucsd.edu/event/1/contributions/79/){:target="_blank"}**\
 LIght Detection In Noble Elements, September 2021 (Contributed Talk)
 - **[nEXO: Search for Neutrino-less Double Beta Decay at the Tonne Scale](https://indico.ific.uv.es/event/6178/contributions/15490/){:target="_blank"}**\
@@ -51,7 +53,7 @@ APS April Meeting, April 2019 (Contributed Talk)
 CPAD Instrumentation Frontier Workshop, October 2016 (Invited Talk)
 
 ## Selected Publications
-- **[nEXO: Neutrinoless double beta decay search beyond $\mathit{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
+- **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
 G. Adhikari et. al., arXiv:2106.16243 (2021)
 - **[VUV-Sensitive Silicon Photomultipliers for Xenon Scintillation Light Detection in nEXO](https://ieeexplore.ieee.org/document/8490731){:target="_blank"}**\
 A. Jamil et al., IEEE Trans.Nucl.Sci. 65 (2018) no.11
