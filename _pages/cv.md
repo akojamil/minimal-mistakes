@@ -72,9 +72,22 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 - **Studienstiftung (German Academic Scholarship Foundation)**, Fellowship, 2015-2017
 - **German Academic Exchange Service (DAAD)** , PROMOS Fellowship, 2015
 
+## Outreach and Service
+- **nEXO DEI Committee**, nEXO Collaboration, 2021-Now
+- **Graduate Student Advisory Committee**, Physics Department, Yale University, 2020-2021
+- **Pathways to Science**, Physics Department, Yale University, 2020
+- **Weak Interaction Discussion Group**, Seminar Coordinator, Wright Lab, Yale University, 2019-2021
+- **CT Students Exploring Engineering Day**, Volunteer, 2018
+- **Yale Physics Olympics**, Volunteer, 2018-2020
+- **Physics for Refugees**, Volunteer, 2016
+- **Workers’ Welfare Organization (AWO)**, Refugee Program Volunteer, 2015-2016
+- **Engineers Without Borders**, Volunteer, 2015-2016
+
+
 ## Technical Skills
-- **Programming:** Python, C++, LateX, LabView 
+- **Programming:** Python, C/C++, $\latexsim$, LabView 
 - **Software:** Fusion 360, SolidWorks, Eagle, COMSOL
+- **Scientific Computing:** Fusion 360, SolidWorks, Eagle, COMSOL
 
 ## Languages
 - German (mother tongue)
