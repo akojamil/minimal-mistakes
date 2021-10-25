@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Short Bio
-I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrino-less double beta decay and data analysis, simulation and instrumentation related to it.
+I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it.
 
 ## Education
 - **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2017 - Now
@@ -23,14 +23,23 @@ I am a PhD student in physics with interest in fundamental interactions of parti
 - **Graduate Research Assistant**, Erlangen Centre for Astroparticle Physics, 2014 - 2016
 - **Undergraduate Research Assistant**, Erlangen Centre for Astroparticle Physics, 2013 - 2014
 
-## Honors and Awards
-- **[DOE Graduate Instrumentation Research Award](https://detectors.fnal.gov/gira/gira-2020-results/){:target="_blank"}**, Honorable Mention, 2020
-- **[BaCaTeC Project Grant](http://www.bacatec.de/en/gefoerderte_projekte.html){:target="_blank"}**,
-7k$ Travel and Research Grant, 2017
-- **Studienstiftung (German Academic Scholarship Foundation)**, Fellowship, 2015-2017
-- **German Academic Exchange Service (DAAD)** , PROMOS Fellowship, 2015
+## Selected Publications
+- **[Kilotonne-scale xenon detectors for neutrinoless double beta decay and other new physics searches](https://arxiv.org/abs/2110.01537){:target="_blank"}**\
+A. Avasthi et. al., arXiv:2110.01537 (2021)
+- **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
+G. Adhikari et. al., arXiv:2106.16243 (2021)
+- **[VUV-Sensitive Silicon Photomultipliers for Xenon Scintillation Light Detection in nEXO](https://ieeexplore.ieee.org/document/8490731){:target="_blank"}**\
+A. Jamil et al., IEEE Trans.Nucl.Sci. 65 (2018) no.11
+- **[Distributed imaging for liquid scintillation detectors](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.052006){:target="_blank"}**\
+J. Dalmasson et al., Phys. Rev. D 97 (2018), 052006
+- **[Characterization of an Ionization Readout Tile for nEXO](https://iopscience.iop.org/article/10.1088/1748-0221/13/01/P01006){:target="_blank"}**\
+M. Jewell et al., JINST 13 (2018) no.01, P01006
+- **[Influence of magnetic fields on charge sharing caused by diffusion in medipix detectors with a Si sensor](https://www.sciencedirect.com/science/article/pii/S0168900215015041?via%3Dihub){:target="_blank"}**\
+A. Jamil et al., Nucl. Instrum. Meth. A 810 (2016) 19-26
 
-## Selected Presentations
+A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=Bw_nvqQAAAAJ&hl=en&oi=ao){:target="_blank"}.
+
+## Presentations and Posters
 - **[Search for MeV-scale Energy Deposits from Dark Matter in Liquid Xenon using EXO-200](https://meetings.aps.org/Meeting/DNP21/Session/QL.6){:target="_blank"}**\
 Fall Meeting of the APS Division of Nuclear Physics, October 2021 (Contributed Talk)
 - **[Modeling the Effect of Impurities on the Electron Lifetime in Liquid Xenon for nEXO](https://indico.physics.ucsd.edu/event/1/contributions/79/){:target="_blank"}**\
@@ -49,22 +58,19 @@ The XXIX International Conference on Neutrino Physics and Astrophysics, June 202
 APS April Meeting, April 2020 (Contributed Talk)
 - **[Light Detection with VUV-sensitive SiPMs in nEXO](https://meetings.aps.org/Meeting/APR19/Session/J10.8){:target="_blank"}**\
 APS April Meeting, April 2019 (Contributed Talk)
+- **[Development of Large Area Silicon Photomultipliers in Noble Liquids for the nEXO Experiment](https://www.dpg-verhandlungen.de/year/2017/conference/muenster/part/t/session/12/contribution/4){:target="_blank"}**\
+DPG Spring Meetings, March 2017 (Contributed Talk)
 - **[Light Detection with SiPMs in the nEXO Experiment](http://hep.caltech.edu/cpad2016/){:target="_blank"}**\
 CPAD Instrumentation Frontier Workshop, October 2016 (Invited Talk)
+- **[Silicon Photomultipliers for the detection of VUV scintillation light in LXe for the nEXO experiment](https://www.dpg-verhandlungen.de/year/2016/conference/hamburg/part/t/session/36/contribution/4){:target="_blank"}**\
+DPG Spring Meetings, February 2016 (Contributed Talk)
 
-## Selected Publications
-- **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
-G. Adhikari et. al., arXiv:2106.16243 (2021)
-- **[VUV-Sensitive Silicon Photomultipliers for Xenon Scintillation Light Detection in nEXO](https://ieeexplore.ieee.org/document/8490731){:target="_blank"}**\
-A. Jamil et al., IEEE Trans.Nucl.Sci. 65 (2018) no.11
-- **[Distributed imaging for liquid scintillation detectors](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.052006){:target="_blank"}**\
-J. Dalmasson et al., Phys. Rev. D 97 (2018), 052006
-- **[Characterization of an Ionization Readout Tile for nEXO](https://iopscience.iop.org/article/10.1088/1748-0221/13/01/P01006){:target="_blank"}**\
-M. Jewell et al., JINST 13 (2018) no.01, P01006
-- **[Influence of magnetic fields on charge sharing caused by diffusion in medipix detectors with a Si sensor](https://www.sciencedirect.com/science/article/pii/S0168900215015041?via%3Dihub){:target="_blank"}**\
-A. Jamil et al., Nucl. Instrum. Meth. A 810 (2016) 19-26
-
-A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=Bw_nvqQAAAAJ&hl=en&oi=ao){:target="_blank"}.
+## Honors and Awards
+- **[DOE Graduate Instrumentation Research Award](https://detectors.fnal.gov/gira/gira-2020-results/){:target="_blank"}**, Honorable Mention, 2020
+- **[BaCaTeC Project Grant](http://www.bacatec.de/en/gefoerderte_projekte.html){:target="_blank"}**,
+7k$ Travel and Research Grant, 2016
+- **Studienstiftung (German Academic Scholarship Foundation)**, Fellowship, 2015-2017
+- **German Academic Exchange Service (DAAD)** , PROMOS Fellowship, 2015
 
 ## Technical Skills
 - **Programming:** Python, C++, LateX, LabView 
