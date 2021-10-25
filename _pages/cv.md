@@ -85,7 +85,7 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 
 
 ## Technical Skills
-- **Programming:** Python, C/C++, $\latexsim$, LabView 
+- **Programming:** Python, C/C++, $\LaTeX$, LabView 
 - **Software:** Fusion 360, SolidWorks, Eagle, COMSOL
 - **Scientific Computing:** Fusion 360, SolidWorks, Eagle, COMSOL
 
