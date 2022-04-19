@@ -12,22 +12,23 @@ classes: wide
 I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it.
 
 ## Education
-- **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2017 - Now
+- **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2017 - 2022
 - **Master of Science (M.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2017
 - **Bachelor of Science (B.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2014
 
 ## Research Positions
-- **EXO-200 Fitting Group Coordinator**, EXO-200 Collaboration, 2020 - Now
-- **Graduate Research Assistant**, Yale University, 2017 - Now,
+- **Associate Research Scholar (Dicke Fellow)**, Princeton University, 2022-
+- **EXO-200 Fitting Group Coordinator**, EXO-200 Collaboration, 2020 - 2022
+- **Graduate Research Assistant**, Yale University, 2017 - 2022,
 - **Visiting Research Scholar**, Stanford University, 2016 - 2017
 - **Graduate Research Assistant**, Erlangen Centre for Astroparticle Physics, 2014 - 2016
 - **Undergraduate Research Assistant**, Erlangen Centre for Astroparticle Physics, 2013 - 2014
 
 ## Selected Publications
 - **[Kilotonne-scale xenon detectors for neutrinoless double beta decay and other new physics searches](https://arxiv.org/abs/2110.01537){:target="_blank"}**\
-A. Avasthi et. al., arXiv:2110.01537 (2021)
+A. Avasthi et. al., Phys. Rev. D 104, 112007 (2021)
 - **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
-G. Adhikari et. al., arXiv:2106.16243 (2021)
+G. Adhikari et. al., J. Phys. G: Nucl. Part. Phys. 49, 015104 (2022)
 - **[VUV-Sensitive Silicon Photomultipliers for Xenon Scintillation Light Detection in nEXO](https://ieeexplore.ieee.org/document/8490731){:target="_blank"}**\
 A. Jamil et al., IEEE Trans.Nucl.Sci. 65 (2018) no.11
 - **[Distributed imaging for liquid scintillation detectors](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.052006){:target="_blank"}**\
@@ -40,6 +41,11 @@ A. Jamil et al., Nucl. Instrum. Meth. A 810 (2016) 19-26
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=Bw_nvqQAAAAJ&hl=en&oi=ao){:target="_blank"}.
 
 ## Presentations and Posters
+
+- **[Search for Neutrinoless Double Beta Decay with EXO-200](https://indico.sanfordlab.org/event/28/abstracts/40/){:target="_blank"}**\
+Conference on Science at the Sanford Underground Research Facility, May 2022 (Invited Talk)
+- **[Light and Charge Transport in Liquid Xenon Detectors for Rare Event Searches](https://phy.princeton.edu/events/special-seminar-dicke-candidate-ako-jamil-yale-university-light-and-charge-transport-liquid){:target="_blank"}**\
+Princeton Dicke Seminar, December 2021 (Invited Talk)
 - **[Search for MeV-scale Energy Deposits from Dark Matter in Liquid Xenon using EXO-200](https://meetings.aps.org/Meeting/DNP21/Session/QL.6){:target="_blank"}**\
 Fall Meeting of the APS Division of Nuclear Physics, October 2021 (Contributed Talk)
 - **[Modeling the Effect of Impurities on the Electron Lifetime in Liquid Xenon for nEXO](https://indico.physics.ucsd.edu/event/1/contributions/79/){:target="_blank"}**\
@@ -66,6 +72,8 @@ CPAD Instrumentation Frontier Workshop, October 2016 (Invited Talk)
 DPG Spring Meetings, February 2016 (Contributed Talk)
 
 ## Honors and Awards
+- **Robert H. Dicke Fellowship**, Princeton University, 2022
+- **Grainger Fellowship**, The University of Chicago, 2022 (Declined)
 - **[DOE Graduate Instrumentation Research Award](https://detectors.fnal.gov/gira/gira-2020-results/){:target="_blank"}**, Honorable Mention, 2020
 - **[BaCaTeC Project Grant](http://www.bacatec.de/en/gefoerderte_projekte.html){:target="_blank"}**,
 7k$ Travel and Research Grant, 2016
