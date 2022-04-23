@@ -42,7 +42,9 @@ A full list of my publications can be found on [Google Scholar](https://scholar.
 
 ## Presentations and Posters
 
-- **[Search for Neutrinoless Double Beta Decay with EXO-200](https://indico.sanfordlab.org/event/28/abstracts/40/){:target="_blank"}**\
+- **[Search for $0\nu\beta\beta$ beyond $10^{28}$ years half-life sensitivity with nEXO](https://indico.sanfordlab.org/event/28/contributions/365/){:target="_blank"}**\
+Conference on Science at the Sanford Underground Research Facility, May 2022 (Invited Talk)
+- **[Search for Neutrinoless Double Beta Decay with EXO-200](https://indico.sanfordlab.org/event/28/contributions/313/){:target="_blank"}**\
 Conference on Science at the Sanford Underground Research Facility, May 2022 (Invited Talk)
 - **[Light and Charge Transport in Liquid Xenon Detectors for Rare Event Searches](https://phy.princeton.edu/events/special-seminar-dicke-candidate-ako-jamil-yale-university-light-and-charge-transport-liquid){:target="_blank"}**\
 Princeton Dicke Seminar, December 2021 (Invited Talk)
