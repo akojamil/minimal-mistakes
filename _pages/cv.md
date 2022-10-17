@@ -8,8 +8,8 @@ author_profile: true
 classes: wide
 ---
 
-## Short Bio
-I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it.
+<!-- ## Short Bio
+I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it. -->
 
 ## Education
 - **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2017 - 2022
