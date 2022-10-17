@@ -11,13 +11,6 @@ classes: wide
 <!-- ## Short Bio
 I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it. -->
 
-## Education
-- **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2022
-- **Master of Philosophy (M.Phil.) in Physics**, Yale University, 2020
-- **Master of Science (M.S.) in Physics**, Yale University, 2018
-- **Master of Science (M.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2017
-- **Bachelor of Science (B.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2014
-
 ## Research Positions
 - **Associate Research Scholar (Dicke Fellow)**, Princeton University, 2022-
 - **EXO-200 Fitting Group Coordinator**, EXO-200 Collaboration, 2020 - 2022
@@ -25,6 +18,13 @@ I am a PhD student in physics with interest in fundamental interactions of parti
 - **Visiting Research Scholar**, Stanford University, 2016 - 2017
 - **Graduate Research Assistant**, Erlangen Centre for Astroparticle Physics, 2014 - 2016
 - **Undergraduate Research Assistant**, Erlangen Centre for Astroparticle Physics, 2013 - 2014
+
+## Education
+- **Doctor of Philosophy (Ph.D.) in Physics**, Yale University, 2022
+- **Master of Philosophy (M.Phil.) in Physics**, Yale University, 2020
+- **Master of Science (M.S.) in Physics**, Yale University, 2018
+- **Master of Science (M.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2017
+- **Bachelor of Science (B.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2014
 
 ## Selected Publications
 - **[Search for MeV Electron Recoils from Dark Matter in EXO-200](https://arxiv.org/abs/2207.00897){:target="_blank"}**\
