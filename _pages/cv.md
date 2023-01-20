@@ -91,7 +91,7 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 - **EP‐2 (Electrodynamics and Thermodynamics)**, Teaching Assistant, FAU, Fall 2014
 
 ## Honors and Awards
-- **Robert H. Dicke Fellowship**, Princeton University, 2022
+- **[Robert H. Dicke Fellowship](https://phy.princeton.edu/dicke-fellows)**, Princeton University, 2022
 - **Grainger Fellowship**, The University of Chicago, 2022 (Declined)
 - **[DOE Graduate Instrumentation Research Award](https://detectors.fnal.gov/gira/gira-2020-results/){:target="_blank"}**, Honorable Mention, 2020
 - **[BaCaTeC Project Grant](http://www.bacatec.de/en/gefoerderte_projekte.html){:target="_blank"}**,
@@ -111,6 +111,6 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 - **Engineers Without Borders**, Volunteer, 2015-2016
 
 ## Languages
-- German (mother tongue)
 - Kurdish (mother tongue)
+- German (mother tongue)
 - English
