@@ -37,10 +37,7 @@ G. Adhikari et. al., J. Phys. G: Nucl. Part. Phys. 49, 015104 (2022)
 A. Jamil et al., IEEE Trans.Nucl.Sci. 65 (2018) no.11
 - **[Distributed imaging for liquid scintillation detectors](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.052006){:target="_blank"}**\
 J. Dalmasson et al., Phys. Rev. D 97 (2018), 052006
-- **[Characterization of an Ionization Readout Tile for nEXO](https://iopscience.iop.org/article/10.1088/1748-0221/13/01/P01006){:target="_blank"}**\
-M. Jewell et al., JINST 13 (2018) no.01, P01006
-- **[Influence of magnetic fields on charge sharing caused by diffusion in medipix detectors with a Si sensor](https://www.sciencedirect.com/science/article/pii/S0168900215015041?via%3Dihub){:target="_blank"}**\
-A. Jamil et al., Nucl. Instrum. Meth. A 810 (2016) 19-26
+
 
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=Bw_nvqQAAAAJ&hl=en&oi=ao){:target="_blank"}.
 
