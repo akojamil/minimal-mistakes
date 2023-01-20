@@ -100,7 +100,7 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 - **German Academic Exchange Service (DAAD)**, PROMOS Fellowship, 2015 (Declined)
 
 ## Outreach and Service
-- **nEXO DEI Committee**, nEXO Collaboration, 2021-Now
+- **nEXO DEI Committee**, nEXO Collaboration, 2021-2022
 - **Graduate Student Advisory Committee**, Physics Department, Yale University, 2020-2021
 - **Pathways to Science**, Physics Department, Yale University, 2020
 - **Weak Interaction Discussion Group**, Seminar Coordinator, Wright Lab, Yale University, 2019-2021
