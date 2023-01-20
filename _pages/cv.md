@@ -11,8 +11,9 @@ classes: wide
 <!-- ## Short Bio
 I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it. -->
 
-## Research Positions
+## Academic Positions
 - **Associate Research Scholar (Dicke Fellow)**, Princeton University, 2022 -
+- **Lecturer**, Princeton University, 2022-2023
 - **EXO-200 Fitting Group Coordinator**, EXO-200 Collaboration, 2020 - 2022
 - **Graduate Research Assistant**, Yale University, 2017 - 2022
 - **Visiting Research Scholar**, Stanford University, 2016 - 2017
@@ -74,6 +75,21 @@ CPAD Instrumentation Frontier Workshop, October 2016 (Invited Talk)
 - **[Silicon Photomultipliers for the detection of VUV scintillation light in LXe for the nEXO experiment](https://www.dpg-verhandlungen.de/year/2016/conference/hamburg/part/t/session/36/contribution/4){:target="_blank"}**\
 DPG Spring Meetings, February 2016 (Contributed Talk)
 
+## Teaching
+- **PHY 209 (Computational Physics Seminar)**, Instructor, Princeton University, Fall 2022
+- **PHYS 678 (Computing for Scientific Research)**, Teaching Assistant, Yale University, Spring 2022
+- **PHYS 524 (Introduction to Nuclear Physics)**, Teaching Assistant, Yale University, Fall 2021
+- **PHYS 206L (Modern Physical Measurement)**, Teaching Assistant, Yale University, Spring 2021
+- **PHYS 524 (Introduction to Nuclear Physics)**, Teaching Assistant, Yale University, Fall 2020
+- **PHYS 430 (Electromagnetic Fields and Optics)**, Teaching Assistant, Yale University, Spring 2020
+- **PHYS 205L (Modern Physical Measurement)**, Teaching Assistant, Yale University, Fall 2019
+- **PHYS 166 (General Physics Laboratory)**, Head Teaching Assistant, Yale University, Spring 2019
+- **PHYS 165 (General Physics Laboratory)**, Head Teaching Assistant, Yale University, Fall 2018
+- **PHYS 166 (General Physics Laboratory)**, Teaching Assistant, Yale University, Spring 2018
+- **PHYS 165 (General Physics Laboratory)**, Teaching Assistant, Yale University, Fall 2017
+- **EP‐5 (Nuclear and Particle Physics)**, Teaching Assistant, FAU, Spring 2015
+- **EP‐2 (Electrodynamics and Thermodynamics)**, Teaching Assistant, FAU, Fall 2014
+
 ## Honors and Awards
 - **Robert H. Dicke Fellowship**, Princeton University, 2022
 - **Grainger Fellowship**, The University of Chicago, 2022 (Declined)
@@ -81,7 +97,7 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 - **[BaCaTeC Project Grant](http://www.bacatec.de/en/gefoerderte_projekte.html){:target="_blank"}**,
 7k$ Travel and Research Grant, 2016
 - **Studienstiftung (German Academic Scholarship Foundation)**, Fellowship, 2015-2017
-- **German Academic Exchange Service (DAAD)** , PROMOS Fellowship, 2015
+- **German Academic Exchange Service (DAAD)**, PROMOS Fellowship, 2015 (Declined)
 
 ## Outreach and Service
 - **nEXO DEI Committee**, nEXO Collaboration, 2021-Now
@@ -94,12 +110,7 @@ DPG Spring Meetings, February 2016 (Contributed Talk)
 - **Workers’ Welfare Organization (AWO)**, Refugee Program Volunteer, 2015-2016
 - **Engineers Without Borders**, Volunteer, 2015-2016
 
-
-## Technical Skills
-- **Programming:** Python, C/C++, $\LaTeX$, LabView 
-- **Software:** Fusion 360, SolidWorks, Eagle, COMSOL
-
 ## Languages
 - German (mother tongue)
 - Kurdish (mother tongue)
-- English (C2 level)
+- English
