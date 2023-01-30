@@ -28,11 +28,11 @@ I am a PhD student in physics with interest in fundamental interactions of parti
 - **Bachelor of Science (B.Sc.) in Physics**, Friedrich-Alexander University Erlangen-Nürnberg, 2014
 
 ## Selected Publications
-- **[Search for MeV Electron Recoils from Dark Matter in EXO-200](https://arxiv.org/abs/2207.00897){:target="_blank"}**\
+- **[Search for MeV Electron Recoils from Dark Matter in EXO-200](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.012007){:target="_blank"}**\
 S. Al Kharusi et. al., Phys. Rev. D 107, 012007
-- **[Kilotonne-scale xenon detectors for neutrinoless double beta decay and other new physics searches](https://arxiv.org/abs/2110.01537){:target="_blank"}**\
+- **[Kilotonne-scale xenon detectors for neutrinoless double beta decay and other new physics searches](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.112007){:target="_blank"}**\
 A. Avasthi et. al., Phys. Rev. D 104, 112007 (2021)
-- **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
+- **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://iopscience.iop.org/article/10.1088/1361-6471/ac3631){:target="_blank"}**\
 G. Adhikari et. al., J. Phys. G: Nucl. Part. Phys. 49, 015104 (2022)
 - **[VUV-Sensitive Silicon Photomultipliers for Xenon Scintillation Light Detection in nEXO](https://ieeexplore.ieee.org/document/8490731){:target="_blank"}**\
 A. Jamil et al., IEEE Trans.Nucl.Sci. 65 (2018) no.11
