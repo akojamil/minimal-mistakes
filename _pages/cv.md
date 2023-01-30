@@ -29,7 +29,7 @@ I am a PhD student in physics with interest in fundamental interactions of parti
 
 ## Selected Publications
 - **[Search for MeV Electron Recoils from Dark Matter in EXO-200](https://arxiv.org/abs/2207.00897){:target="_blank"}**\
-S. Al Kharusi et. al., arXiv:2207.00897 (2022)
+S. Al Kharusi et. al., Phys. Rev. D 107, 012007
 - **[Kilotonne-scale xenon detectors for neutrinoless double beta decay and other new physics searches](https://arxiv.org/abs/2110.01537){:target="_blank"}**\
 A. Avasthi et. al., Phys. Rev. D 104, 112007 (2021)
 - **[nEXO: Neutrinoless double beta decay search beyond $\mathbf{10^{28}}$ year half-life sensitivity](https://arxiv.org/abs/2106.16243){:target="_blank"}**\
