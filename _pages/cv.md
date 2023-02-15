@@ -12,7 +12,7 @@ classes: wide
 I am a PhD student in physics with interest in fundamental interactions of particles, particularly the interactions of Neutrinos and their role in the Standard Model and beyond. My research is focused on neutrinoless double beta decay $(0\nu\beta\beta)$ and data analysis, simulation and instrumentation related to it. -->
 
 ## Academic Positions
-- **Associate Research Scholar (Dicke Fellow)**, Princeton University, 2022--
+- **Associate Research Scholar (Dicke Fellow)**, Princeton University, 2022-Present
 - **Lecturer**, Princeton University, 2022-2023
 - **EXO-200 Fitting Group Coordinator**, EXO-200 Collaboration, 2020-2022
 - **Graduate Research Assistant**, Yale University, 2017-2022
